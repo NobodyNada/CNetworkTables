@@ -16,7 +16,7 @@
 #include <stddef.h>
 #endif
 
-#include <wpi/deprecated.h>
+#include "wpi_deprecated.h"
 
 #ifdef __cplusplus
 extern "C" {
